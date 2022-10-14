@@ -1,0 +1,123 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\panru\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\ICS 33 Preview\com.python.pydev.analysis\v2_indexcache
+week7.lecture1q.1|1603782646516833000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\1.py
+week7.lecture1q.ctmct|1603783176471248000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\ctmct.py
+week7.lecture1q.2|1603782885526156000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\2.py
+week3.strangePython|1597728442860783000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week3\strangePython.py
+exec≤‚ ‘|1595894360988742000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\exec≤‚ ‘.py
+reviewpar|1601870343596604000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\reviewpar.py
+scratch|1603530869863734000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\scratch.py
+week6.week6l3.q2|1603633789553244000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\q2.py
+week6.week6l3.q3|1603637272350990000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\q3.py
+wk1_7|1601870359864404000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\wk1_7.py
+m|1595811695376284000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\m.py
+week7.lecture1q.3|1603783099464427000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\3.py
+week6.week6l3.bst|1603633789519390000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\bst.py
+week1_questions|1595846866049648000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week1_questions.py
+wk1review|1602146355682482000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\wk1review.py
+week6.week6l3.5|1603636230026944000|C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\5.py
+-- END DISKCACHE
+-- START DICTIONARY
+41
+2=week7.lecture1q.1
+40=D.__init__
+5=C:\Users\panru\eclipse-workspace\ICS 33 Preview\scratch.py
+32=B
+30=C
+36=Modular_Counter.__init__
+4=week3.strangePython
+33=D
+38=Counter.reset
+24=exec≤‚ ‘
+26=week6.week6l3.q2
+12=week6.week6l3.q3
+7=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\bst.py
+11=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\q3.py
+18=week7.lecture1q.3
+8=week6.week6l3.bst
+27=C:\Users\panru\eclipse-workspace\ICS 33 Preview\m.py
+34=Counter
+15=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\ctmct.py
+13=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\5.py
+39=B.__init__
+21=C:\Users\panru\eclipse-workspace\ICS 33 Preview\wk1review.py
+16=week7.lecture1q.ctmct
+17=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\3.py
+23=C:\Users\panru\eclipse-workspace\ICS 33 Preview\exec≤‚ ‘.py
+41=TN.__init__
+6=scratch
+1=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week7\lecture1q\1.py
+20=wk1_7
+29=C.__init__
+28=m
+9=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week1_questions.py
+25=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week6\week6l3\q2.py
+19=C:\Users\panru\eclipse-workspace\ICS 33 Preview\wk1_7.py
+10=week1_questions
+35=Modular_Counter
+22=wk1review
+3=C:\Users\panru\eclipse-workspace\ICS 33 Preview\week3\strangePython.py
+14=week6.week6l3.5
+31=TN
+37=Counter.__init__
+-- END DICTIONARY
+-- START TREE 1
+36
+B|1|B!1^1#7*17@
+C|2|C!3^6#7*33@C!5^2#7*49@
+D|1|D!1^5#7*17@
+TN|1|TN!7^1#7*65@
+a|1|a!9^58#1*83@
+add|1|add!7^26#5*66@
+all|3|all_less!11^4#5*98@all_greater!11^9#5*98@all_satisfy!13^5#5*114@
+b|1|b!1^9#1*19@
+bet|1|between!9^39#5*82@
+c|2|c!15^74#5*131@c!17^9#1*147@
+cal|3|call2!9^31#5*82@call!19^16#5*162@call!9^25#5*82@
+col|1|college_age!9^44#1*83@
+cou|1|Counter!15^14#7*129@
+cyc|1|cycler!21^19#1*179@
+d|1|d!1^10#1*19@
+dou|1|double!19^7#5*162@
+exp|1|expr!23^11#1*195@
+fun|2|func!23^12#5*194@function_cycler!21^1#5*178@
+hei|1|height!7^14#5*66@
+is_|1|is_bst!11^15#5*98@
+mc|2|mc!17^11#1*147@mc!15^75#5*131@
+mod|1|Modular_Counter!15^40#7*129@
+o|1|o!3^16#1*35@
+o1|1|o1!3^21#1*35@
+run|1|running_average2!9^50#5*82@
+sea|1|search!7^20#5*66@
+set|1|setnum!3^13#5*34@
+siz|1|size!7^8#5*66@
+sum|1|sum_T!25^4#5*210@
+t|3|t!25^10#1*211@t!13^10#1*115@t!11^20#1*99@
+tim|1|times10!19^13#5*162@
+tra|1|transform_alabo2_roman_num!15^1#5*130@
+tri|1|triple!19^10#5*162@
+x|3|x!5^9#1*51@x!23^6#1*195@x!27^7#1*227@
+y|1|y!27^8#1*227@
+z|1|z!27^9#1*227@
+-- END TREE
+-- START TREE 2
+17
+__a|1|__a!29&5^4#9*51@
+__i|7|__init__!30&5^3#9*50@__init__!30&3^7#9*34@__init__!31&7^2#9*66@__init__!32&1^2#9*18@__init__!33&1^6#9*18@__init__!34&15^18#9*130@__init__!35&15^44#9*130@
+__s|3|__str__!34&15^24#9*130@__str__!35&15^53#9*130@__setattr__!30&5^6#9*50@
+_mo|1|_modulus!36&15^50#9*131@
+_va|2|_value!37&15^21#9*131@_value!38&15^28#9*131@
+a|2|a!39&1^3#9*19@a!40&1^7#9*19@
+cou|2|counter_base!34&15^16#5*131@counter_derived!35&15^42#5*131@
+get|1|getnum!30&3^10#9*34@
+hie|2|hierarchy_depth!34&15^15#5*131@hierarchy_depth!35&15^41#5*131@
+inc|2|inc!34&15^30#9*130@inc!35&15^60#9*130@
+ins|1|instance_attr!29&3^8#9*35@
+lef|1|left!41&7^5#9*67@
+mod|1|modulus_of!35&15^66#9*130@
+pri|2|print_it!34&15^36#9*130@print_it!35&15^68#9*130@
+res|1|reset!34&15^27#9*130@
+rig|1|right!41&7^6#9*67@
+val|2|value_of!34&15^33#9*130@value!41&7^4#9*67@
+-- END TREE

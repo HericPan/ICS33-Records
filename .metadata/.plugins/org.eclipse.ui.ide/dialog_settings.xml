@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\panru\eclipse-workspace\q4helper"/>
+			<item value="C:\Users\panru\eclipse-workspace\q3helper"/>
+			<item value="C:\Users\panru\eclipse-workspace\program2"/>
+			<item value="C:\Users\panru\eclipse-workspace\program1"/>
+			<item value="C:\Users\panru\eclipse-workspace\xref"/>
+			<item value="C:\Users\panru\eclipse-workspace\q1helper"/>
+			<item value="C:\Users\panru\eclipse-workspace\project0d"/>
+			<item value="C:\Users\panru\eclipse-workspace\craps"/>
+			<item value="C:\Users\panru\eclipse-workspace\project0b"/>
+		</list>
+	</section>
+</section>

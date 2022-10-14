@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ICS 33 Preview/week6l3/__init__.py&apos;" deleteContents="false" description="Delete resource &apos;ICS 33 Preview/week6l3/__init__.py&apos;" element1="/ICS 33 Preview/week6l3/__init__.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1603633283280"/>&#x0A;<refactoring comment="Delete resource &apos;ICS 33 Preview/week7/lecture1.py&apos;" deleteContents="false" description="Delete resource &apos;ICS 33 Preview/week7/lecture1.py&apos;" element1="/ICS 33 Preview/week7/lecture1.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1603782628209"/>
+</session>

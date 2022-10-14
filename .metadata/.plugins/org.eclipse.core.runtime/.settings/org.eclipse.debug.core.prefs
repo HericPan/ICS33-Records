@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.debug.core.USE_STEP_FILTERS=false
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="game"/>\r\n<expression enabled\="true" text\="win_count"/>\r\n<expression enabled\="true" text\="lose_count"/>\r\n<expression enabled\="true" text\="first_roll"/>\r\n<expression enabled\="true" text\="point"/>\r\n<expression enabled\="true" text\="roll"/>\r\n<expression enabled\="true" text\="original_number"/>\r\n</watchExpressions>\r\n
